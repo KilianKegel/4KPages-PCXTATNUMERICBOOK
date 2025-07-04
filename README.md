@@ -2,7 +2,7 @@
 Klaus-Dieter Thies "PC-XT-AT NUMERIK-BUCH"
 
 [PDF](https://1drv.ms/b/s!ArSwFV5bfcDrdq1vi88vpb_XCf8?e=d4hKvU)
-
+![](https://github.com/KilianKegel/4KPages-PCXTATNUMERICBOOK/blob/main/images/COVERfront2.jpg) 
 ![](https://github.com/KilianKegel/4KPages-PCXTATNUMERICBOOK/blob/main/images/PCXTATNUMERICBOOK_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-PCXTATNUMERICBOOK/blob/main/images/PCXTATNUMERICBOOK_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-PCXTATNUMERICBOOK/blob/main/images/PCXTATNUMERICBOOK_002.jpg) 
